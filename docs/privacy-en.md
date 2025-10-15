@@ -101,10 +101,3 @@ Significant changes will be announced within the app
 
 If you have any questions about this Privacy Policy or our data-protection practices, please contact  
 **[bonsaitheapp@gmail.com](mailto:bonsaitheapp@gmail.com)**
-
----
-
-### 🇩🇪 Hinweis
-
-Für Nutzerinnen und Nutzer in Deutschland wird eine deutsche Übersetzung dieser Datenschutzerklärung bereitgestellt: [Datenschutzerklärung auf Deutsch](privacy-de.md)  
-Bei Widersprüchen gilt die englische Version
